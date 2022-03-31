@@ -1,0 +1,50 @@
+{
+  "name": "r3f-template",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.12.3",
+    "@react-three/drei": "^7.19.2",
+    "@react-three/fiber": "^7.0.17",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "eslint-config-react-app": "^6.0.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-icons": "^4.3.1",
+    "react-merge-refs": "^1.1.0",
+    "react-scripts": "3.4.1",
+    "react-use": "^17.3.1",
+    "three": "^0.134.0",
+    "zustand": "^3.6.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "eslint-plugin-react": "^7.26.1",
+    "node-sass": "^4.14.0",
+    "rewire": "^5.0.0"
+  }
+}

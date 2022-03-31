@@ -1,0 +1,3 @@
+C:/Proj/C++/Library Class (OOP 1st assignment)/cmake-build-debug/CMakeFiles/Library_Class__OOP_1st_assignment_.dir
+C:/Proj/C++/Library Class (OOP 1st assignment)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Proj/C++/Library Class (OOP 1st assignment)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

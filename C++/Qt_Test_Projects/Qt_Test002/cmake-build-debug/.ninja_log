@@ -1,0 +1,7 @@
+# ninja log v5
+1	965	6693239153995818	Qt_Test002_autogen/timestamp	de1db3aa1e56e8a2
+1	965	6693239153995818	Qt_Test002_autogen/mocs_compilation.cpp	de1db3aa1e56e8a2
+1	965	6693239153995818	C:/Proj/C++/Qt_Test002/cmake-build-debug/Qt_Test002_autogen/timestamp	de1db3aa1e56e8a2
+1	965	6693239153995818	C:/Proj/C++/Qt_Test002/cmake-build-debug/Qt_Test002_autogen/mocs_compilation.cpp	de1db3aa1e56e8a2
+968	1435	6693239160387440	CMakeFiles/Qt_Test002.dir/Qt_Test002_autogen/mocs_compilation.cpp.obj	7037864e2184ec04
+972	3264	6693239178671553	CMakeFiles/Qt_Test002.dir/main.cpp.obj	c59b67680efed58f

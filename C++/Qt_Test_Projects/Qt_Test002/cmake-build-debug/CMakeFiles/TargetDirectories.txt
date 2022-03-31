@@ -1,0 +1,5 @@
+C:/Proj/C++/Qt_Test002/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Proj/C++/Qt_Test002/cmake-build-debug/CMakeFiles/Qt_Test002.dir
+C:/Proj/C++/Qt_Test002/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Proj/C++/Qt_Test002/cmake-build-debug/CMakeFiles/Qt_Test002_autogen_timestamp_deps.dir
+C:/Proj/C++/Qt_Test002/cmake-build-debug/CMakeFiles/Qt_Test002_autogen.dir

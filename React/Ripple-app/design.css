@@ -1,0 +1,51 @@
+html,
+body {
+    background-image: linear-gradient(to bottom right, #ff00d4, #00ddff);
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    margin: 0;
+}
+
+.box {
+    margin: auto;
+    height: 100em;
+    width: 80em;
+    background-color: #FFFFFF;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0;
+    overflow: hidden;
+    background-color: #000;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    font-size: x-large;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: green;
+}
+
+.game-space {
+    height: 200px;
+    width: 200px;
+    background-color: #000;
+    position: absolute;
+    top: auto;
+    right: auto;
+}

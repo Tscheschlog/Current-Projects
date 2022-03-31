@@ -1,0 +1,3 @@
+C:/Proj/C++/CreateDifferentMenus/cmake-build-debug/CMakeFiles/CreateDifferentMenus.dir
+C:/Proj/C++/CreateDifferentMenus/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Proj/C++/CreateDifferentMenus/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,17 @@
+# ninja log v5
+28	1015	6701924123478679	CMakeFiles/randomNumber.dir/library.cpp.obj	ca1164fe32933a5a
+1	1143	6701924124764712	CMakeFiles/randomNumber.dir/main.cpp.obj	fde1c5f7694f0f65
+1144	1665	6701924129933743	randomNumber.exe	5a422eba51063f17
+5	594	6701924513924980	CMakeFiles/randomNumber.dir/main.cpp.obj	fde1c5f7694f0f65
+595	780	6701924515748083	randomNumber.exe	5a422eba51063f17
+10	1107	6702242466398830	CMakeFiles/randomNumber.dir/main.cpp.obj	fde1c5f7694f0f65
+1107	1618	6702242471484234	randomNumber.exe	5a422eba51063f17
+17	910	6702242735739506	CMakeFiles/randomNumber.dir/main.cpp.obj	fde1c5f7694f0f65
+911	1156	6702242738157143	randomNumber.exe	5a422eba51063f17
+10	653	6702243051749001	CMakeFiles/randomNumber.dir/main.cpp.obj	fde1c5f7694f0f65
+653	831	6702243053491851	randomNumber.exe	5a422eba51063f17
+11	1072	6702244900257248	CMakeFiles/randomNumber.dir/main.cpp.obj	fde1c5f7694f0f65
+1073	1296	6702244902545937	randomNumber.exe	5a422eba51063f17
+49	939	6702249010039615	CMakeFiles/randomNumber.dir/library.cpp.obj	ca1164fe32933a5a
+5	971	6702249010389413	CMakeFiles/randomNumber.dir/main.cpp.obj	fde1c5f7694f0f65
+971	1452	6702249015196657	randomNumber.exe	5a422eba51063f17

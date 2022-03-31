@@ -1,0 +1,18 @@
+# ninja log v5
+125	4991	6677057322057912	CMakeFiles/COPClassProj.dir/main.cpp.obj	8eacea8d9dae906
+6	2147	6681434309423320	CMakeFiles/COPClassProj.dir/customer.cpp.obj	b1fc934c9b10c704
+2375	2619	6681439571127045	COPClassProj.exe	309759101de664c1
+7	2374	6681439568718421	CMakeFiles/COPClassProj.dir/register.cpp.obj	59593c1651ea7baf
+31	865	6681382485781552	CMakeFiles/COPClassProj.dir/groceryInventory.cpp.obj	f442429a7752c77
+39	573	6663209328519937	CMakeFiles/COPClassProj.dir/tester.cpp.obj	5de0bd1a33a868ef
+21	1046	6670885233440549	build.ninja	d4d0503a4e7dec00
+7	2223	6681439936692617	CMakeFiles/COPClassProj.dir/register.cpp.obj	59593c1651ea7baf
+2223	2462	6681439939040122	COPClassProj.exe	309759101de664c1
+6	2374	6681440944407778	CMakeFiles/COPClassProj.dir/register.cpp.obj	59593c1651ea7baf
+2375	2613	6681440946746282	COPClassProj.exe	309759101de664c1
+6	2065	6681443268139526	CMakeFiles/COPClassProj.dir/customer.cpp.obj	b1fc934c9b10c704
+2066	2481	6681443272284620	COPClassProj.exe	309759101de664c1
+48	1107	6681453631319329	CMakeFiles/COPClassProj.dir/groceryInventory.cpp.obj	f442429a7752c77
+44	2207	6681453642323290	CMakeFiles/COPClassProj.dir/customer.cpp.obj	b1fc934c9b10c704
+6	2269	6681453642932924	CMakeFiles/COPClassProj.dir/register.cpp.obj	59593c1651ea7baf
+2269	2505	6681453645244975	COPClassProj.exe	309759101de664c1

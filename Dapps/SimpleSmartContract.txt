@@ -1,0 +1,11 @@
+// SPDX-License-Identifier: MIT
+
+^Need to declare the SPDX-License-Identifier or the compiler will throw an error
+
+pragma solidity ^0.8.9;
+
+^Need to declare a version of solidity being used
+
+contract SimpleSmartContract {}
+
+^This is the start of a contract; there can be more than one in a single file

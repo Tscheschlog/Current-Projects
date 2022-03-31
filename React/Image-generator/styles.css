@@ -1,0 +1,120 @@
+@import url('http://fonts.cdnfonts.com/css/arcade-classic');
+
+.body {
+    position: absolute;
+    height: 25em;
+    width: 25em;
+    top: 33%;
+    left: 34%;    
+}
+
+.main {
+    z-index: 11;
+}
+
+.eyes {
+    z-index: 12;
+}
+
+.mouth {
+    z-index: 12;
+}
+
+#palID {
+    font-size: 30px;
+    border-bottom: 0;
+    border-top: 0;
+    top: 20%;
+    left: 30%;
+}
+
+#belly {
+    z-index: 14;
+}
+
+p {
+    position: absolute;
+    top: 10%;
+    left: 23%;
+    background: transparent !important;
+    text-align: center;
+    word-spacing: 10px;
+    font-family: 'ArcadeClassic', sans-serif;
+    font-size: 70px;
+    text-shadow: 3px 3px 2px #6c916f;
+    z-index: 10;
+    border-bottom:5px solid black;
+    border-Top:5px solid black;
+}
+
+.disable-select, img {
+    -webkit-user-select: none;  
+    -moz-user-select: none;    
+    -ms-user-select: none;      
+    user-select: none;
+  }
+
+#myCanvas {
+    position: absolute;
+    height: 35em;
+    width: 35em;
+    top: 25%;
+    left: 25%;
+    border: 5px solid;
+    border-radius: 3%;
+    background: #d4cb74;
+}
+
+.button {
+    position:fixed;
+    width:11em;
+    top: 57%;
+    left: 23.3%;
+    text-align: center;
+    background-color: #6c916f;
+    border:rgb(34, 43, 35)f;
+    color: white;
+    padding: 10px 25px;
+    text-decoration: none;
+    font-size: 50px;
+    font-family: 'ArcadeClassic', sans-serif;
+    letter-spacing: 5px;
+    cursor: pointer;
+    border-radius: 50px;
+   }
+  
+   html, body, .container{
+    width: 100%;
+    height: 100%;
+    min-width: 500px;
+    min-height: 500px;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    z-index: 1;
+  }
+
+  .container{
+    background-color: #ddffdf;
+    background: linear-gradient(to bottom, #95dd9a 1%,#cce7ff 100%);
+  }
+
+  #cloud-intro{
+    position: relative;
+    height: 100%;
+    background: url(https://static.radulescu.me/examples/clouds/clouds1000.png);
+    background: url(https://static.radulescu.me/examples/clouds/clouds1000.png) 0 200px,
+                url(https://static.radulescu.me/examples/clouds/clouds1200_1.png) 0 300px,
+                url(https://static.radulescu.me/examples/clouds/clouds1000_blur3.png) 100px 250px;
+      animation: wind 20s linear infinite;
+  }
+
+  @keyframes wind{
+    0% {
+      background-position: 0 200px, 0 300px, 100px 250px;
+    }
+    100% {
+      background-position: 1000px 200px, 1200px 300px, 1100px 250px;
+    }
+  
+  }

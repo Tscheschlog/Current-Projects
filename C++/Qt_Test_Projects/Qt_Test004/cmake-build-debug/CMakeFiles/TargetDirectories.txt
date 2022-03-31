@@ -1,0 +1,3 @@
+C:/Proj/C++/Qt_Test_Projects/Qt_Test004/cmake-build-debug/CMakeFiles/Qt_Test004.dir
+C:/Proj/C++/Qt_Test_Projects/Qt_Test004/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Proj/C++/Qt_Test_Projects/Qt_Test004/cmake-build-debug/CMakeFiles/rebuild_cache.dir

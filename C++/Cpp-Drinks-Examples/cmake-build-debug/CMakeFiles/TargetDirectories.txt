@@ -1,0 +1,3 @@
+C:/Proj/C++/Cpp-Drinks-Examples/cmake-build-debug/CMakeFiles/Cpp_Drinks_Examples.dir
+C:/Proj/C++/Cpp-Drinks-Examples/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Proj/C++/Cpp-Drinks-Examples/cmake-build-debug/CMakeFiles/rebuild_cache.dir
